@@ -1,0 +1,28 @@
+
+body {
+    backdrop-filter: blur(50px);
+    background: rgba(0,0,0,0.5) url("ifaw.gif") no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 500%;
+    color: #2bd476;
+}
+.btn-group {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 300%;
+    width: 20%;
+    display: block;
+}
+.btn {
+    background-color: #2bd476;
+    border-radius: 20px;
+    margin: 10% 10%;
+    padding: 10% 10%;
+    display: block;
+}
